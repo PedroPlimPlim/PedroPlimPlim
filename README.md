@@ -17,6 +17,11 @@ I'm a systems analysis and development student who is starting in this programmi
 
   ##
  
+
+![Snake animation](https://github.com/PedroPlimPlim/PedroPlimPlim/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 <div> 
   
   <a href="https://www.instagram.com/pedro_plim_plim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,7 +29,3 @@ I'm a systems analysis and development student who is starting in this programmi
   <a href="https://www.linkedin.com/in/pedroplimplim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/PedroPlimPlim/PedroPlimPlim/blob/output/github-contribution-grid-snake.svg)
-
-<!-- olá -->
