@@ -25,6 +25,6 @@ I'm a systems analysis and development student who is starting in this programmi
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini/PedroPlimPlim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PedroPlimPlim/PedroPlimPlim/blob/output/github-contribution-grid-snake.svg)
 
 <!-- olá -->
