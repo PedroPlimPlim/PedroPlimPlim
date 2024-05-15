@@ -2,13 +2,28 @@
 
 ## Full Stack aspiring and AI enthusiastic
 ### About me
-I'm a systems analysis and development student who is starting in this programming world. I currently program in Python and I'm studying HTML and CSS, but I've developed a certain love for AI and that's why I'm looking to delve deeper into these areas.
+I'm a systems analysis and development student who is starting in this programming world. I currently program in some Back-end and Front-end languages as you can see bellow, but I've developed a certain love for AI and that's why I'm looking to delve deeper into this area.
+
+ ##
 
 ### Skills and Technologies
-- Python
-- HTML
+#### Back-End
+ - Python
+ - PHP
+ - JS
+
+#### Front-End
+- HTML5
 - CSS
+
+ ##
+
+### Currently Learning
 - AI
+- React
+- Vue
+
+##
 
 ### GitHub Stats
 <a href="https://github.com/PedroPlimPlim/github-readme-stats">
