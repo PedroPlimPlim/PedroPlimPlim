@@ -43,8 +43,8 @@ I'm a System Analysis and Development student who is starting in this programmin
 
 <a href="https://github.com/PedroPlimPlim/github-readme-stats">
  
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPlimPlim&show_icons=true&theme=tokyonight" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPlimPlim&layout=compact&theme=tokyonight" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPlimPlim&show_icons=true&theme=tokyonight" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPlimPlim&layout=compact&theme=tokyonight" />
   
 </a>
 
