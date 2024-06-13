@@ -36,6 +36,8 @@ I'm a System Analysis and Development student who is starting in this programmin
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> React
 - <img align="center" alt="PedroPlimPlim-VUE" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> Vue
+- <img align="center" alt="PedroPlimPlim-JAVA" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
 
 ##
 
