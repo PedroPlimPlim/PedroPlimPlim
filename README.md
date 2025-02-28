@@ -16,28 +16,31 @@ I'm a System Analysis and Development student who is starting in this programmin
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python 
  - <img align="center" alt="PedroPlimPlim-PHP" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> PHP 
- - <img align="center" alt="PedroPlimPlim-JS" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript
 
 #### Front-End
 
+- <img align="center" alt="PedroPlimPlim-JS" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript
 - <img align="center" alt="PedroPlimPlim-HTML5" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> HTML5
 - <img align="center" alt="PedroPlimPlim-CSS3" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS3
 
+#### Frameworks
+
+- <img align="center" alt="PedroPlimPlim-REACT" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> React
+
+- <img align="center" alt="PedroPlimPlim-MongoDB" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> MongoDB
+
+
  ##
 
 ### Currently Learning
 
-- <img align="center" alt="PedroPlimPlim-TENSORFLOW" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> TensorFlow
-- <img align="center" alt="PedroPlimPlim-REACT" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> React
 - <img align="center" alt="PedroPlimPlim-VUE" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> Vue
-- <img align="center" alt="PedroPlimPlim-JAVA" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
 
 ##
 
