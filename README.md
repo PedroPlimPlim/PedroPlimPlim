@@ -1,10 +1,10 @@
 # **Hi I'm PedroPlimPlim**
 
-## Full Stack aspiring and AI enthusiastic
+## Full Stack Developer
 
 ### About me
 
-I'm a System Analysis and Development student who is starting in this programming world. I currently program in some Back-end and Front-end languages as you can see bellow, but I've developed a certain love for AI and that's why I'm looking to delve deeper into this area.
+Full Stack developer, cat lover and Taylor Swift fan.
 
  ##
 
