@@ -4,7 +4,7 @@
 
 ### About me
 
-Full Stack developer, cat lover and Taylor Swift fan.
+Full Stack developer, cat lover and Taylor Swift fan. 🐱
 
  ##
 
