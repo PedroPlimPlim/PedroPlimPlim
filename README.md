@@ -13,10 +13,7 @@ Full Stack developer, cat lover and Taylor Swift fan. 🐱
 #### Back-End
 
  - <img align="center" alt="PedroPlimPlim-Python" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python 
- - <img align="center" alt="PedroPlimPlim-PHP" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> PHP 
-
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python
 #### Front-End
 
 - <img align="center" alt="PedroPlimPlim-JS" height="30" width="40" 
@@ -39,8 +36,8 @@ Full Stack developer, cat lover and Taylor Swift fan. 🐱
 
 ### Currently Learning
 
-- <img align="center" alt="PedroPlimPlim-VUE" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> Vue
+- <img align="center" alt="PedroPlimPlim-Flask" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> Flask
 
 ##
 
