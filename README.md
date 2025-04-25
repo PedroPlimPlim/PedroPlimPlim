@@ -31,6 +31,14 @@ Full Stack developer, cat lover and Taylor Swift fan. 🐱
 - <img align="center" alt="PedroPlimPlim-MongoDB" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> MongoDB
 
+#### DataBase
+
+- <img align="center" alt="PedroPlimPlim-SQLite" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> SQLite
+
+- <img align="center" alt="PedroPlimPlim-MySQL" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> MySQL
+
 
  ##
 
