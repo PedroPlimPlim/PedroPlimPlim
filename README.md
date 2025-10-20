@@ -1,10 +1,10 @@
 # **Hi I'm PedroPlimPlim**
 
-## Full Stack Developer
+## NOC - Operational Analyst
 
 ### About me
 
-Full Stack developer, cat lover and Taylor Swift fan. 🐱
+My name is Pedro, I work as an operational analyst for Attend.
 
  ##
 
@@ -44,8 +44,18 @@ Full Stack developer, cat lover and Taylor Swift fan. 🐱
 
 ### Currently Learning
 
-- <img align="center" alt="PedroPlimPlim-Flask" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> Flask
+- <img align="center" alt="PedroPlimPlim-Java" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
+
+- <img align="center" alt="PedroPlimPlim-NodeJS" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> NodeJS
+  
+- <img align="center" alt="PedroPlimPlim-React" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> React
+            
+- <img align="center" alt="PedroPlimPlim-PostgreeSQL" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> PostgreeSQL            
+
 
 ##
 
