@@ -25,9 +25,6 @@ My name is Pedro, I work as an operational analyst for Attend.
 
 #### Frameworks
 
-- <img align="center" alt="PedroPlimPlim-REACT" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> React
-
 - <img align="center" alt="PedroPlimPlim-MongoDB" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> MongoDB
 
