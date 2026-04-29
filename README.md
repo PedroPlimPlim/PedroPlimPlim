@@ -4,7 +4,8 @@
 
 ### About me
 
-My name is Pedro, I work as an operational analyst for Attend.
+My name is Pedro, I work as an operational analyst/noc and part of the development team for Attend.
+Focusing on Cybersecurity and Network.
 
  ##
 
@@ -23,10 +24,13 @@ My name is Pedro, I work as an operational analyst for Attend.
 - <img align="center" alt="PedroPlimPlim-CSS3" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS3
 
-#### Frameworks
+#### Frameworks & Tecnologies
 
-- <img align="center" alt="PedroPlimPlim-MongoDB" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> MongoDB
+- <img align="center" alt="PedroPlimPlim-Django" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> Django
+
+- <img align="center" alt="PedroPlimPlim-Docker" height="30" width="40" 
+            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> Docker
 
 #### DataBase
 
@@ -43,15 +47,6 @@ My name is Pedro, I work as an operational analyst for Attend.
 
 - <img align="center" alt="PedroPlimPlim-Java" height="30" width="40" 
             img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
-
-- <img align="center" alt="PedroPlimPlim-NodeJS" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> NodeJS
-  
-- <img align="center" alt="PedroPlimPlim-React" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> React
-            
-- <img align="center" alt="PedroPlimPlim-PostgreeSQL" height="30" width="40" 
-            img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> PostgreeSQL            
 
 
 ##
